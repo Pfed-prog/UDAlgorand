@@ -1,4 +1,3 @@
-
 button {
     height: 48px;
     width: 385px;
@@ -24,7 +23,7 @@ h1 {
     font-size: 46px;
     text-align: center;
     font-family: Roboto, Helvetica, bold;
-    color: lightgreen;
+    color: rgb(60, 199, 199);
 }
 
 .container {text-align: center;}
