@@ -1,5 +1,4 @@
 /* global AlgoSigner */
-import './css/App.css';
 import {Button, Container, Header, Message} from "semantic-ui-react";
 import {useState, useCallback} from "react";
 import algosdk from 'algosdk';
