@@ -1,6 +1,6 @@
 # UDAlgorand
 
-**Login with Unstoppable Domains and access AlgoSigner and Algorand Blockchain**
+**Login with Unstoppable Domains to Algorand Blockchain**
 
 We built an interface to Algorand with AlgoSigner Wallet in React
 
