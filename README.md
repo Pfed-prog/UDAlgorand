@@ -2,6 +2,10 @@
 
 **Login with Unstoppable Domains and access AlgoSigner and Algorand Blockchain**
 
+We built an interface to Algorand with AlgoSigner Wallet in React
+
+And we also connect an Indexer to our application by using testnet API from PureStake.
+
 **Discord: fedotov_am#4849**
 
 **Email: Fedorovn19@gmail.com**
