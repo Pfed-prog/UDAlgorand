@@ -2,13 +2,13 @@
 
 **Login with Unstoppable Domains to Algorand Blockchain**
 
-We built an interface to Algorand with AlgoSigner Wallet in React.And we also connect an Indexer to our application by using testnet API from PureStake.
+We built an interface to Algorand with AlgoSigner Wallet in React. And we also connect an Indexer to our application by using testnet API from PureStake.
 
 ## Submission Details
 
-[Live Demo](https://uda-lgorand.vercel.app/)
+[Live](https://uda-lgorand.vercel.app/)
 
-[YouTube Demo](https://youtu.be/RogDqb7A_8U)
+[YouTube](https://youtu.be/bfwsq4plh4E)
 
 ## React
 We have chosen React as our front end JavaScript Library. In fact, according to Stack Overflow developer annual survey, React.js (40.14%) has overtaken jQuery (34.42%) to become the most-used web framework. Besides, React.js (25.12%) also leads the most-wanted web frameworks, followed by Vue.js (16.69%), Django (9.21%), Angular (8.47%), and Svelte (6.57%).
